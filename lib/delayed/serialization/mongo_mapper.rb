@@ -11,4 +11,3 @@ MongoMapper::Document.class_eval do
     ['@_id']
   end
 end
-
